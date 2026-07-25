@@ -17,7 +17,7 @@ This project focuses on recreating the layout and design of Netflix with respons
 To run this project locally:
 
 # Clone the repository
-git clone https://github.com/bhavsarrenuka26/NetFlixUI
+git clone https://github.com/username/NetFlixUI
 
 # Navigate to the project folder
 cd NetFlixUI
